@@ -1,0 +1,18 @@
+# Node Modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build directories
+/dist
+/build
+
+# System Files
+.DS_Store
+Thumbs.db
